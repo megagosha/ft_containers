@@ -1,5 +1,5 @@
 # ft_containers
-- map on Red - black trees
+- map on red - black trees
 - vector
 - stack
 - iterators
